@@ -148,10 +148,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Account Private by default
+- [ ] Join group by invite only
+- [ ] Create multiple networks of friend groups
+- [ ] Add and remove group members
+- [ ] Create networks of group members
+- [ ] Group members can belong to multiple networks
+- [ ] Send messages to individual members and networks
+- [ ] Purchase custom memes and gifs to send to group members
 
 See the [open issues](https://github.com/AnnieNostr/SuperFriends/issues) for a full list of proposed features (and known issues).
 
